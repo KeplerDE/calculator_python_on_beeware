@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Briefcase-Version: 0.3.12
+Name: helloworld
+Formal-Name: Hello World
+App-ID: com.firstproject.helloworld
+Version: 0.0.1
+Home-page: http://keplerde
+Download-URL: http://keplerde
+Author: KeplerDe
+Author-email: keplerde@firstproject.com
+Summary: my first project
